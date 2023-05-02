@@ -1,7 +1,3 @@
-#Lab 1 Hello world program
-print("hello world!")
-print("Python has three numeric types: int, float, and complex")
-
 #Lab 2 Working with Numeric Data Types
 
 #Exercise 2: Introducing the int data type
